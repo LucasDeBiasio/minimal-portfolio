@@ -1,26 +1,20 @@
 export default [
     {
-        title: 'Personal Portfolio',
-        imgUrl: '',
-        stack: ['React', 'Tailwind', 'Vite'],
+        title: 'Empty',
+        imgUrl: '/assets/empty-box.jpg',
+        stack: ['n/a'],
         link: '',
     },
     {
         title: 'Empty',
-        imgUrl: '',
-        stack: [],
+        imgUrl: '/assets/empty-box.jpg',
+        stack: ['n/a'],
         link: '',
     },
     {
         title: 'Empty',
-        imgUrl: '',
-        stack: [],
-        link: '',
-    },
-    {
-        title: 'Empty',
-        imgUrl: '',
-        stack: [],
+        imgUrl: '/assets/empty-box.jpg',
+        stack: ['n/a'],
         link: '',
     },
 ]

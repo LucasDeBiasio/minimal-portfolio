@@ -1,7 +1,7 @@
 import React from 'react'
 import Intro from './components/intro';
 import Portfolio from './components/portfolio';
-import Timeline from './components/timeline';
+import About from './components/about';
 import Contact from './components/contact';
 import Footer from './components/footer';
 
@@ -11,7 +11,7 @@ function App() {
     <div className = "App">
       <Intro></Intro>
       <Portfolio></Portfolio>
-      <Timeline></Timeline>
+      <About></About>
       <Contact></Contact>
       <Footer></Footer>
     </div>
